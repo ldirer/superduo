@@ -1,0 +1,6 @@
+[submodule "football-scores"]
+	path = football-scores
+	url = https://github.com/ldirer/football-scores
+[submodule "alexandria"]
+	path = alexandria
+	url = https://github.com/ldirer/alexandria
